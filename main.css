@@ -1,0 +1,19 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body {
+    background-color: #777;
+    background-repeat: no-repeat;
+    height: 1575px;
+    width: 1400px;
+    font-size: 200%;
+    font-family: 'Arial';
+    padding: 23px;
+}
+p{
+    background-color: #a54;
+}
