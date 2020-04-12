@@ -84,3 +84,116 @@
 // console.log(typeof [1,2,3] ); //object
 
 // 3.2.4
+// var x;
+// console.log(x);
+// console.log(str); 
+
+// if (window.str == undefined) {
+// 	console.log("var not exist")
+// }
+
+// else {
+// 	console.log("var exist")
+// }
+
+
+// 3.2.5
+// const MY_CONST = [1,2,3];
+// console.log( MY_CONST);
+// MY_CONST[0] = 89;
+// console.log( MY_CONST);
+
+// 3.3.1
+// console.log( 2+3);
+// console.log( 23-3);
+// console.log( 23*2);
+// console.log( 23/2);
+// console.log( 23/0);
+// console.log( -23/0);
+// console.log( 0/0);
+// console.log( 10%2);
+// console.log( 10%3);
+// console.log( 10**2);
+// var x = 10
+// console.log( -x );
+
+// var n = 10
+// var x = +n;
+// console.log( x );
+// console.log( typeof x );
+
+// var x = 10;
+// x++;
+// ++x;
+// x--;
+// --x;
+// console.log( x );
+
+// 3.3.4
+// console.log( 10==10 );
+// console.log( 10==5 );
+// console.log( 10!=5 );
+// console.log( 10<5 );
+// console.log( 2=="2" );
+// console.log( 2==="2" );
+// console.log( 2==2 );
+// not equal
+// console.log( !(2==2) );
+// && and
+// console.log( (2==2) && (2!=3) );
+// console.log( (2==2) && (2==3) );
+// || or
+// console.log( (2==2) || (2==3) );
+// console.log( (2==2) || (2==3) );
+// qq-- eror
+// function test(str) {
+// 	str str || "def value";
+// 	return str;
+// }
+// console.log( test() );
+// console.log( test("def value") );
+
+// 3.3.5
+// var x=5+2*2/2
+// console.log( x );
+
+// 3.3.6
+// var str = "2", x=3;
+// var var1 = x + str;
+// console.log(var1)
+// 3.3
+// 3.
+// 3.
+// 3.
+
+// 3.2.4
+
+// 3.2.4
+
+// 3.2.4
+
+// 3.2.4
+
+// 3.2.4
+
+// 3.2.4
+
+// 3.2.4
+
+// 3.2.4
+
+// 3.2.4
+
+// 3.2.4
+
+// 3.2.4
+
+// 3.2.4
+
+
+// 3.2.4
+// 3.2.4
+// 3.2.4
+// 3.2.4
+// 3.2.4
+// 3.2.4
